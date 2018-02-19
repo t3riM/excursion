@@ -1,0 +1,19 @@
+* {
+  font-family: "Veranda";
+  background-color: black;
+
+}
+
+h1 {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+
+}
+
+h2{
+  font-weight: 300;
+  font-size: 42px;
+  
+}
